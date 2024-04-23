@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi,　僕わShidoNatsです！！, I like **Rhythm and Gacha games** in general (_and obviously I watch anime_)
+and additionally I like all things related to the Japanese culture.
+
+I'm an avid **Blue Archive** fan and currently playing **osu!**, **Rotaeno**, and **PJSK** as my rhythm games.
 
 <!--
 **NatsukenShido/NatsukenShido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
