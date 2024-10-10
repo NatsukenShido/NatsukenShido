@@ -2,6 +2,7 @@
 and additionally I like all things related to the Japanese culture.
 
 I'm an avid **Blue Archive** fan and currently playing **osu!**, **Rotaeno**, and **PJSK** as my rhythm games.
+Here's a link to my spotify clone if ya'll are interested (psst it has Blue Archive OSTs innit):https://natsukenshido.github.io/shido-fy.github.io/main.html
 
 <!--
 **NatsukenShido/NatsukenShido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
